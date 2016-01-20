@@ -1,0 +1,23 @@
+{
+  "name": "data",
+  "version": "0.0.1",
+  "description": "datastructures with javascript",
+  "main": "app.js",
+  "dependencies": {
+    "webpack": "^1.12.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderwin/DataStructures.git"
+  },
+  "author": "inChenJian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderwin/DataStructures/issues"
+  },
+  "homepage": "https://github.com/coderwin/DataStructures#readme"
+}
